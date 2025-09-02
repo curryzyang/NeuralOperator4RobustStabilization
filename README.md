@@ -38,7 +38,7 @@ pip install -r requirements.txt
 - Ensure PyTorch and DeepXDE are installed (via `requirements.txt`).
 
 ### ARZ numerical experiments (`Numerical-ARZ-sto.ipynb`)
-- Run sequentially to reproduce ODE/sparse-based computations and plots (SciPy, Matplotlib).
+- Run sequentially to reproduce the nominal controller for the stochastic ARZ model and plots (SciPy, Matplotlib).
 
 ## License
 See the `LICENSE` file.
