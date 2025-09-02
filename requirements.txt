@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy>=1.21
+scipy>=1.8  # includes scipy.io, integrate, sparse, etc.
+matplotlib>=3.5
+
+# Parallel utilities
+multiprocess>=0.70
+
+# Notebooks
+jupyter>=1.0
+
+# ML / Operator learning
+torch>=2.1
+scikit-learn>=1.0
+deepxde>=1.10
+
