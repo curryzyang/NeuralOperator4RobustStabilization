@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/curryzyang/NeuralOperator4RobustStabilizationHyperbolicPDEs)](https://github.com/curryzyang/NeuralOperator4RobustStabilizationHyperbolicPDEs/issues)
 [![Stars](https://img.shields.io/github/stars/curryzyang/NeuralOperator4RobustStabilizationHyperbolicPDEs?style=social)](https://github.com/curryzyang/NeuralOperator4RobustStabilizationHyperbolicPDEs/stargazers)
 
-Source code of operator learning for Operator Learning for Robust Stabilization of Linear Markov-Jumping Hyperbolic PDEs, together with numerical experiments (e.g., ARZ traffic model) and a CTMC simulation toolkit used for stochastic process.
+Source code of Operator Learning for Robust Stabilization of Linear Markov-Jumping Hyperbolic PDEs, together with numerical experiments (e.g., ARZ traffic model) and a CTMC simulation toolkit used for stochastic process.
 
 ## Repository Structure
 - `cmtcFunc.py`: Utility functions for Continuous-Time Markov Chains (CTMC).
