@@ -55,9 +55,6 @@ If you use this repository, please cite it as follows
 }
 ```
 
-## Acknowledgment
-Thanks to the open-source community (NumPy, SciPy, Matplotlib, PyTorch, DeepXDE) and related operator-learning resources.
-
 ## Contact
 Feel free to leave questions in the issues of Github or email at [yzhang169@connect.hkust-gz.edu.cn](yzhang169@connect.hkust-gz.edu.cn)
 
