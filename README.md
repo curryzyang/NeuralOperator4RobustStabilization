@@ -13,7 +13,7 @@ Source code of Operator Learning for Robust Stabilization of Linear Markov-Jumpi
   - `pltTauMatrix(...)`, `RFuncMat(...)`, `computeProbStates(...)`, `computeProbStatesFromSim(...)`
 - Notebooks
   - `CMarkovChain.ipynb`: 5-state CTMC with time-varying transition rates; simulation, visualization, and state probability ODE solve.
-  - `Numerical-ARZ-sto.ipynb`: Numerical experiments for the ARZ model using SciPy ODE/sparse routines.
+  - `Numerical-ARZ-sto.ipynb`: Numerical experiments for the ARZ model using SciPy ODE.
   - `NO-para2k-robust.ipynb`: Neural-operator of robust stabilization experiments using PyTorch/DeepXDE and scikit-learn helpers.
   - `Plots.ipynb`: Additional plotting and data export (e.g., `scipy.io.savemat`).
   - `data_gene_train.ipynb`: Data generation.
